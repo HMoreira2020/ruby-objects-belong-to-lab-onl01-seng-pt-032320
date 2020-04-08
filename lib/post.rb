@@ -5,6 +5,5 @@ class Post
 end 
 
 
-post = Post.new("Hello World") 
-author = Author.new("Unlce Bob")
+post = Post.new
 post.author = author 
